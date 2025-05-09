@@ -1,1 +1,1 @@
-This is a change made directly in the `main` branch.
+This is a conflicting change made in the new branch.
