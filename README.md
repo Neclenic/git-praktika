@@ -1,2 +1,2 @@
 # git-praktika
-Change in main
+zmena v konfliktovom branchi
