@@ -1,2 +1,1 @@
-# git-praktika
-zmena v konfliktovom branchi
+This is a conflicting change made in the new branch.
